@@ -2,7 +2,7 @@
 
 **[Live Interactive Dashboard](https://public.tableau.com/app/profile/lana.v1040/viz/AB_dashboard/Dashboard?publish=yes)**
 
-## 📌 Project Overview
+##  Project Overview
 This project evaluates an A/B test designed to test the impact of displaying guaranteed delivery dates on product detail pages. While the primary goal was to increase conversion rates, the critical secondary objective was to measure the stress this feature placed on the backend logistics network. 
 
 **Tools Used:** Google Colab (Python), Google BigQuery (SQL), Tableau
